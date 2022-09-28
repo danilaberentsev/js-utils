@@ -1,7 +1,4 @@
 export * from './array';
-export * from './breadcrumb';
-export * from './date';
-
 export * from './copyToClipboard';
 export * from './createFormData';
 export * from './getNumber';
