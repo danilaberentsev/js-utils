@@ -1,3 +1,3 @@
-  return number ? `№${number}` : '';
 export function getNumber(number) {
+  return number ? `№${number}` : '';
 }
